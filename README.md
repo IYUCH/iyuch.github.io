@@ -13,10 +13,7 @@
 
     <image src='img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000'>
     <image src='/github-octocat.svg'>
-
-    ![SVG Image](github-octocat.svg)
     
-    ![Image]https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000
     <p>Содержание</p>
 </div>
 
