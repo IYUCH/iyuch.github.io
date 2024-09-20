@@ -11,8 +11,8 @@
 <div class="header">
     <h1>My GitHub Profile</h1>
 
-    <img src='img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000'>
-    <img src='github-octocat.svg' style="width: 300px; height: 300px;">
+    <img src='https://avatars.githubusercontent.com/u/125912329?s=40&v=4'>
+    <img src='github-octocat.svg' style="width: 100px; height: 100px;">
     
     <p>Содержание</p>
 </div>
