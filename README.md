@@ -10,6 +10,9 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
+
+    ![SVG Image](https://host.com/your-image.svg)
+    ![Image]https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000
     <p>Содержание</p>
 </div>
 
