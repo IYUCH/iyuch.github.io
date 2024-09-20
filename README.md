@@ -12,7 +12,7 @@
     <h1>My GitHub Profile</h1>
 
     <img src='img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000'>
-    <img src='github-octocat.svg'>
+    <img src='github-octocat.svg' style="width: 300px; height: 300px;">
     
     <p>Содержание</p>
 </div>
