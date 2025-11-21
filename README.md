@@ -6,7 +6,7 @@
 	<title>Заголовок</title>
     <link rel="stylesheet" href="styles.css">
     <!--<link rel="icon" href="github-icon-2.svg">-->
-    <link rel="icon" href="book.svg">
+    <link rel="icon" href="favicon.ico">
 </head>
 <body>
 
