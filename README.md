@@ -2,7 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
+    <!--<title>GitHub Profile Header</title>-->
+    <title>Доки</title>
     <link rel="stylesheet" href="styles.css">
     <!--<link rel="icon" href="github-icon-2.svg">-->
     <link rel="icon" href="book.svg">
@@ -10,7 +11,7 @@
 <body>
 
 <div class="header">
-    <h1>Документация - My GitHub Profile</h1>
+    <h1>Документация>
 
     <img src='github-octocat.svg' style="width: 100px; height: 100px;">
 
